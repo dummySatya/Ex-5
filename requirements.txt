@@ -47,6 +47,7 @@ ipykernel=6.29.5=pyh3099207_0
 ipython=8.18.1=pyh707e725_3
 jedi=0.19.1=pyhd8ed1ab_0
 jinja2=3.1.4=py39h06a4308_0
+joblib=1.4.2=py39h06a4308_0
 jpeg=9e=h5eee18b_3
 jupyter_client=8.6.3=pyhd8ed1ab_0
 jupyter_core=5.7.2=pyh31011fe_1
@@ -67,6 +68,8 @@ libedit=3.1.20230828=h5eee18b_0
 libffi=3.4.4=h6a678d5_1
 libgcc=14.1.0=h77fa898_1
 libgcc-ng=14.1.0=h69a702a_1
+libgfortran-ng=11.2.0=h00389a5_1
+libgfortran5=11.2.0=h1234567_1
 libglib=2.78.4=hdc74915_0
 libgomp=14.1.0=h77fa898_1
 libiconv=1.16=h5eee18b_3
@@ -124,6 +127,7 @@ prompt-toolkit=3.0.48=pyha770c72_0
 psutil=6.0.0=py39h8cd3c5a_1
 ptyprocess=0.7.0=pyhd3deb0d_0
 pure_eval=0.2.3=pyhd8ed1ab_0
+pybind11-abi=4=hd3eb1b0_1
 pygments=2.18.0=pyhd8ed1ab_0
 pyparsing=3.1.2=py39h06a4308_0
 pyqt=5.15.10=py39h6a678d5_0
@@ -142,6 +146,8 @@ qhull=2020.2=hdb19cb5_2
 qt-main=5.15.2=h53bd1ea_10
 readline=8.2=h5eee18b_0
 requests=2.32.3=py39h06a4308_0
+scikit-learn=1.5.1=py39h1128e8f_0
+scipy=1.13.1=py39h5f9d8c6_0
 setuptools=75.1.0=py39h06a4308_0
 sip=6.7.12=py39h6a678d5_0
 six=1.16.0=pyh6c4a22f_0
@@ -149,6 +155,7 @@ sqlite=3.45.3=h5eee18b_0
 stack_data=0.6.2=pyhd8ed1ab_0
 sympy=1.13.2=py39h06a4308_0
 tbb=2021.8.0=hdb19cb5_0
+threadpoolctl=3.5.0=py39h2f386ee_0
 tk=8.6.14=h39e8969_0
 tomli=2.0.1=py39h06a4308_0
 torchaudio=2.4.1=py39_cpu
